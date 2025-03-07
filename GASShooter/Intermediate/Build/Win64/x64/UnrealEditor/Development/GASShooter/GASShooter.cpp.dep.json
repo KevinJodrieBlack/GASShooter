@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\kevin\\documents\\unreal projects\\gasshooter\\source\\gasshooter\\private\\gasshooter.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\kevin\\documents\\unreal projects\\gasshooter\\intermediate\\build\\win64\\x64\\gasshootereditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderoldest.h.pch",
+        "Includes": [
+            "c:\\users\\kevin\\documents\\unreal projects\\gasshooter\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\gasshooter\\definitions.gasshooter.h",
+            "c:\\users\\kevin\\documents\\unreal projects\\gasshooter\\source\\gasshooter\\public\\gasshooter.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

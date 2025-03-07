@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\kevin\\Documents\\Unreal Projects\\GASShooter\\Source\\GASShooter\\GASShooter.Build.cs",
+		"C:\\Users\\kevin\\Documents\\Unreal Projects\\GASShooter\\Source\\GASShooter.Target.cs",
+		"C:\\Users\\kevin\\Documents\\Unreal Projects\\GASShooter\\Source\\GASShooterEditor.Target.cs"
+	],
+	"EngineVersion": "5.4.4"
+}

@@ -1,0 +1,32 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-GASShooter.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\kevin\Documents\Unreal Projects\GASShooter\Intermediate\Build\Win64\x64\GASShooterEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderOldest.h.obj"
+"C:\Users\kevin\Documents\Unreal Projects\GASShooter\Intermediate\Build\Win64\x64\UnrealEditor\Development\GASShooter\Module.GASShooter.cpp.obj"
+"C:\Users\kevin\Documents\Unreal Projects\GASShooter\Intermediate\Build\Win64\x64\UnrealEditor\Development\GASShooter\GASShooter.cpp.obj"
+"C:\Users\kevin\Documents\Unreal Projects\GASShooter\Intermediate\Build\Win64\x64\UnrealEditor\Development\GASShooter\DamageInfo.cpp.obj"
+"C:\Users\kevin\Documents\Unreal Projects\GASShooter\Intermediate\Build\Win64\x64\UnrealEditor\Development\GASShooter\GADamage.cpp.obj"
+"C:\Users\kevin\Documents\Unreal Projects\GASShooter\Intermediate\Build\Win64\x64\UnrealEditor\Development\GASShooter\GA_Damage_LineTrace.cpp.obj"
+"C:\Users\kevin\Documents\Unreal Projects\GASShooter\Intermediate\Build\Win64\x64\UnrealEditor\Development\GASShooter\InputAbility.cpp.obj"
+"C:\Users\kevin\Documents\Unreal Projects\GASShooter\Intermediate\Build\Win64\x64\UnrealEditor\Development\GASShooter\InputASC.cpp.obj"
+"C:\Users\kevin\Documents\Unreal Projects\GASShooter\Intermediate\Build\Win64\x64\UnrealEditor\Development\GASShooter\AS_Character.cpp.obj"
+"C:\Users\kevin\Documents\Unreal Projects\GASShooter\Intermediate\Build\Win64\x64\UnrealEditor\Development\GASShooter\CharacterHelperInterface.cpp.obj"
+"C:\Users\kevin\Documents\Unreal Projects\GASShooter\Intermediate\Build\Win64\x64\UnrealEditor\Development\GASShooter\GS_Character_Base.cpp.obj"
+"C:\Users\kevin\Documents\Unreal Projects\GASShooter\Intermediate\Build\Win64\x64\UnrealEditor\Development\GASShooter\GSPlayerController.cpp.obj"
+"C:\Users\kevin\Documents\Unreal Projects\GASShooter\Intermediate\Build\Win64\x64\UnrealEditor\Development\GASShooter\GS_EnhancedInputComponent.cpp.obj"
+"C:\Users\kevin\Documents\Unreal Projects\GASShooter\Intermediate\Build\Win64\x64\UnrealEditor\Development\GASShooter\InputSet.cpp.obj"
+"C:\Users\kevin\Documents\Unreal Projects\GASShooter\Intermediate\Build\Win64\x64\UnrealEditor\Development\GASShooter\GSPlayerState.cpp.obj"
+"C:\Users\kevin\Documents\Unreal Projects\GASShooter\Intermediate\Build\Win64\x64\UnrealEditor\Development\GASShooter\PlayerHelperInterface.cpp.obj"
+"C:\Users\kevin\Documents\Unreal Projects\GASShooter\Intermediate\Build\Win64\x64\UnrealEditor\Development\GASShooter\CharacterUtils.cpp.obj"
+"C:\Users\kevin\Documents\Unreal Projects\GASShooter\Intermediate\Build\Win64\x64\UnrealEditor\Development\GASShooter\MasterWeaponList.cpp.obj"
+"C:\Users\kevin\Documents\Unreal Projects\GASShooter\Intermediate\Build\Win64\x64\UnrealEditor\Development\GASShooter\WeaponActor.cpp.obj"
+"C:\Users\kevin\Documents\Unreal Projects\GASShooter\Intermediate\Build\Win64\x64\UnrealEditor\Development\GASShooter\WeaponComponent.cpp.obj"
+"C:\Users\kevin\Documents\Unreal Projects\GASShooter\Intermediate\Build\Win64\x64\UnrealEditor\Development\GASShooter\WeaponDefinition.cpp.obj"
+"C:\Users\kevin\Documents\Unreal Projects\GASShooter\Intermediate\Build\Win64\x64\UnrealEditor\Development\GASShooter\WeaponInfo.cpp.obj"
+"C:\Users\kevin\Documents\Unreal Projects\GASShooter\Intermediate\Build\Win64\x64\UnrealEditor\Development\GASShooter\Default.rc2.res"
+/OUT:"C:\Users\kevin\Documents\Unreal Projects\GASShooter\Intermediate\Build\Win64\x64\UnrealEditor\Development\GASShooter\UnrealEditor-GASShooter.lib"

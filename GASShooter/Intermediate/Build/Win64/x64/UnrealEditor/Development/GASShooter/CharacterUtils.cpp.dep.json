@@ -1,0 +1,41 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\kevin\\documents\\unreal projects\\gasshooter\\source\\gasshooter\\private\\utilities\\characterutils.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\kevin\\documents\\unreal projects\\gasshooter\\intermediate\\build\\win64\\x64\\gasshootereditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderoldest.h.pch",
+        "Includes": [
+            "c:\\users\\kevin\\documents\\unreal projects\\gasshooter\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\gasshooter\\definitions.gasshooter.h",
+            "c:\\users\\kevin\\documents\\unreal projects\\gasshooter\\source\\gasshooter\\public\\utilities\\characterutils.h",
+            "c:\\users\\kevin\\documents\\unreal projects\\gasshooter\\intermediate\\build\\win64\\unrealeditor\\inc\\gasshooter\\uht\\characterutils.generated.h",
+            "c:\\users\\kevin\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\character.h",
+            "c:\\users\\kevin\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\charactermovementreplication.h",
+            "c:\\users\\kevin\\ue_5.4\\engine\\source\\runtime\\experimental\\iris\\core\\public\\iris\\serialization\\irisobjectreferencepackagemap.h",
+            "c:\\users\\kevin\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\iriscore\\uht\\irisobjectreferencepackagemap.generated.h",
+            "c:\\users\\kevin\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\charactermovementreplication.generated.h",
+            "c:\\users\\kevin\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\rootmotionsource.h",
+            "c:\\users\\kevin\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\rootmotionsource.generated.h",
+            "c:\\users\\kevin\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\character.generated.h",
+            "c:\\users\\kevin\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\charactermovementcomponent.h",
+            "c:\\users\\kevin\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\ai\\navigation\\navigationavoidancetypes.h",
+            "c:\\users\\kevin\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\navigationavoidancetypes.generated.h",
+            "c:\\users\\kevin\\ue_5.4\\engine\\source\\runtime\\engine\\public\\ai\\rvoavoidanceinterface.h",
+            "c:\\users\\kevin\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\rvoavoidanceinterface.generated.h",
+            "c:\\users\\kevin\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\pawnmovementcomponent.h",
+            "c:\\users\\kevin\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\navmovementcomponent.h",
+            "c:\\users\\kevin\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\ai\\navigation\\pathfollowingagentinterface.h",
+            "c:\\users\\kevin\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\pathfollowingagentinterface.generated.h",
+            "c:\\users\\kevin\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\movementcomponent.h",
+            "c:\\users\\kevin\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\movementcomponent.generated.h",
+            "c:\\users\\kevin\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\navmovementcomponent.generated.h",
+            "c:\\users\\kevin\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\pawnmovementcomponent.generated.h",
+            "c:\\users\\kevin\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\interfaces\\networkpredictioninterface.h",
+            "c:\\users\\kevin\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\networkpredictioninterface.generated.h",
+            "c:\\users\\kevin\\ue_5.4\\engine\\source\\runtime\\engine\\public\\charactermovementcomponentasync.h",
+            "c:\\users\\kevin\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\charactermovementcomponentasync.generated.h",
+            "c:\\users\\kevin\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\charactermovementcomponent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

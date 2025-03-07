@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "GASShooter",
+			"Path": "..\\Source\\GASShooter.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "GASShooterEditor",
+			"Path": "..\\Source\\GASShooterEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

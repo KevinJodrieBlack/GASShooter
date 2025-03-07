@@ -1,0 +1,24 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\kevin\\documents\\unreal projects\\gasshooter\\source\\gasshooter\\private\\player\\gsplayerstate.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\kevin\\documents\\unreal projects\\gasshooter\\intermediate\\build\\win64\\x64\\gasshootereditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderoldest.h.pch",
+        "Includes": [
+            "c:\\users\\kevin\\documents\\unreal projects\\gasshooter\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\gasshooter\\definitions.gasshooter.h",
+            "c:\\users\\kevin\\documents\\unreal projects\\gasshooter\\source\\gasshooter\\public\\player\\gsplayerstate.h",
+            "c:\\users\\kevin\\ue_5.4\\engine\\source\\runtime\\gameplaytags\\classes\\gameplaytagcontainer.h",
+            "c:\\users\\kevin\\ue_5.4\\engine\\source\\runtime\\core\\public\\misc\\comparisonutility.h",
+            "c:\\users\\kevin\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\gameplaytags\\uht\\gameplaytagcontainer.generated.h",
+            "c:\\users\\kevin\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\playerstate.h",
+            "c:\\users\\kevin\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\playerstate.generated.h",
+            "c:\\users\\kevin\\documents\\unreal projects\\gasshooter\\source\\gasshooter\\public\\weapons\\weaponinfo.h",
+            "c:\\users\\kevin\\documents\\unreal projects\\gasshooter\\intermediate\\build\\win64\\unrealeditor\\inc\\gasshooter\\uht\\weaponinfo.generated.h",
+            "c:\\users\\kevin\\documents\\unreal projects\\gasshooter\\intermediate\\build\\win64\\unrealeditor\\inc\\gasshooter\\uht\\gsplayerstate.generated.h",
+            "c:\\users\\kevin\\documents\\unreal projects\\gasshooter\\source\\gasshooter\\public\\weapons\\masterweaponlist.h",
+            "c:\\users\\kevin\\documents\\unreal projects\\gasshooter\\intermediate\\build\\win64\\unrealeditor\\inc\\gasshooter\\uht\\masterweaponlist.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

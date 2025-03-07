@@ -1,0 +1,30 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\kevin\\documents\\unreal projects\\gasshooter\\source\\gasshooter\\private\\input\\gs_enhancedinputcomponent.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\kevin\\documents\\unreal projects\\gasshooter\\intermediate\\build\\win64\\x64\\gasshootereditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderoldest.h.pch",
+        "Includes": [
+            "c:\\users\\kevin\\documents\\unreal projects\\gasshooter\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\gasshooter\\definitions.gasshooter.h",
+            "c:\\users\\kevin\\documents\\unreal projects\\gasshooter\\source\\gasshooter\\public\\input\\gs_enhancedinputcomponent.h",
+            "c:\\users\\kevin\\ue_5.4\\engine\\plugins\\enhancedinput\\source\\enhancedinput\\public\\enhancedinputcomponent.h",
+            "c:\\users\\kevin\\ue_5.4\\engine\\plugins\\enhancedinput\\source\\enhancedinput\\public\\inputaction.h",
+            "c:\\users\\kevin\\ue_5.4\\engine\\plugins\\enhancedinput\\source\\enhancedinput\\public\\inputmodifiers.h",
+            "c:\\users\\kevin\\ue_5.4\\engine\\plugins\\enhancedinput\\source\\enhancedinput\\public\\inputactionvalue.h",
+            "c:\\users\\kevin\\ue_5.4\\engine\\plugins\\enhancedinput\\intermediate\\build\\win64\\unrealeditor\\inc\\enhancedinput\\uht\\inputactionvalue.generated.h",
+            "c:\\users\\kevin\\ue_5.4\\engine\\plugins\\enhancedinput\\intermediate\\build\\win64\\unrealeditor\\inc\\enhancedinput\\uht\\inputmodifiers.generated.h",
+            "c:\\users\\kevin\\ue_5.4\\engine\\plugins\\enhancedinput\\source\\enhancedinput\\public\\inputtriggers.h",
+            "c:\\users\\kevin\\ue_5.4\\engine\\plugins\\enhancedinput\\intermediate\\build\\win64\\unrealeditor\\inc\\enhancedinput\\uht\\inputtriggers.generated.h",
+            "c:\\users\\kevin\\ue_5.4\\engine\\plugins\\enhancedinput\\intermediate\\build\\win64\\unrealeditor\\inc\\enhancedinput\\uht\\inputaction.generated.h",
+            "c:\\users\\kevin\\ue_5.4\\engine\\plugins\\enhancedinput\\intermediate\\build\\win64\\unrealeditor\\inc\\enhancedinput\\uht\\enhancedinputcomponent.generated.h",
+            "c:\\users\\kevin\\documents\\unreal projects\\gasshooter\\source\\gasshooter\\public\\input\\inputset.h",
+            "c:\\users\\kevin\\ue_5.4\\engine\\source\\runtime\\gameplaytags\\classes\\gameplaytagcontainer.h",
+            "c:\\users\\kevin\\ue_5.4\\engine\\source\\runtime\\core\\public\\misc\\comparisonutility.h",
+            "c:\\users\\kevin\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\gameplaytags\\uht\\gameplaytagcontainer.generated.h",
+            "c:\\users\\kevin\\documents\\unreal projects\\gasshooter\\intermediate\\build\\win64\\unrealeditor\\inc\\gasshooter\\uht\\inputset.generated.h",
+            "c:\\users\\kevin\\documents\\unreal projects\\gasshooter\\intermediate\\build\\win64\\unrealeditor\\inc\\gasshooter\\uht\\gs_enhancedinputcomponent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,47 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.GASShooter.cpp.obj": [
+			"AS_Character.gen.cpp.obj",
+			"CharacterHelperInterface.gen.cpp.obj",
+			"CharacterUtils.gen.cpp.obj",
+			"DamageInfo.gen.cpp.obj",
+			"GADamage.gen.cpp.obj",
+			"GASShooter.init.gen.cpp.obj",
+			"GA_Damage_LineTrace.gen.cpp.obj",
+			"GSPlayerController.gen.cpp.obj",
+			"GSPlayerState.gen.cpp.obj",
+			"GS_Character_Base.gen.cpp.obj",
+			"GS_EnhancedInputComponent.gen.cpp.obj",
+			"InputAbility.gen.cpp.obj",
+			"InputASC.gen.cpp.obj",
+			"InputSet.gen.cpp.obj",
+			"MasterWeaponList.gen.cpp.obj",
+			"PlayerHelperInterface.gen.cpp.obj",
+			"WeaponActor.gen.cpp.obj",
+			"WeaponComponent.gen.cpp.obj",
+			"WeaponDefinition.gen.cpp.obj",
+			"WeaponInfo.gen.cpp.obj",
+			"DamageInfo.cpp.obj",
+			"GADamage.cpp.obj",
+			"GA_Damage_LineTrace.cpp.obj",
+			"InputAbility.cpp.obj",
+			"InputASC.cpp.obj",
+			"AS_Character.cpp.obj",
+			"CharacterHelperInterface.cpp.obj",
+			"GS_Character_Base.cpp.obj",
+			"GASShooter.cpp.obj",
+			"GSPlayerController.cpp.obj",
+			"GS_EnhancedInputComponent.cpp.obj",
+			"InputSet.cpp.obj",
+			"GSPlayerState.cpp.obj",
+			"PlayerHelperInterface.cpp.obj",
+			"CharacterUtils.cpp.obj",
+			"MasterWeaponList.cpp.obj",
+			"WeaponActor.cpp.obj",
+			"WeaponComponent.cpp.obj",
+			"WeaponDefinition.cpp.obj",
+			"WeaponInfo.cpp.obj"
+		]
+	}
+}

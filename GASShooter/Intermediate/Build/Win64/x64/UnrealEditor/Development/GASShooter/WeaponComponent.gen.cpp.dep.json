@@ -1,0 +1,23 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\kevin\\documents\\unreal projects\\gasshooter\\intermediate\\build\\win64\\unrealeditor\\inc\\gasshooter\\uht\\weaponcomponent.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\kevin\\documents\\unreal projects\\gasshooter\\intermediate\\build\\win64\\x64\\gasshootereditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderoldest.h.pch",
+        "Includes": [
+            "c:\\users\\kevin\\documents\\unreal projects\\gasshooter\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\gasshooter\\definitions.gasshooter.h",
+            "c:\\users\\kevin\\documents\\unreal projects\\gasshooter\\source\\gasshooter\\public\\weapons\\weaponcomponent.h",
+            "c:\\users\\kevin\\ue_5.4\\engine\\source\\runtime\\gameplaytags\\classes\\gameplaytagcontainer.h",
+            "c:\\users\\kevin\\ue_5.4\\engine\\source\\runtime\\core\\public\\misc\\comparisonutility.h",
+            "c:\\users\\kevin\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\gameplaytags\\uht\\gameplaytagcontainer.generated.h",
+            "c:\\users\\kevin\\ue_5.4\\engine\\source\\runtime\\net\\core\\classes\\net\\serialization\\fastarrayserializer.h",
+            "c:\\users\\kevin\\ue_5.4\\engine\\source\\runtime\\net\\core\\public\\net\\core\\misc\\guidreferences.h",
+            "c:\\users\\kevin\\ue_5.4\\engine\\source\\runtime\\net\\core\\public\\net\\core\\pushmodel\\pushmodel.h",
+            "c:\\users\\kevin\\ue_5.4\\engine\\source\\runtime\\net\\core\\public\\net\\core\\netcoremodule.h",
+            "c:\\users\\kevin\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\netcore\\uht\\fastarrayserializer.generated.h",
+            "c:\\users\\kevin\\documents\\unreal projects\\gasshooter\\intermediate\\build\\win64\\unrealeditor\\inc\\gasshooter\\uht\\weaponcomponent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
